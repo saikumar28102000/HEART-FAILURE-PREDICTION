@@ -38,7 +38,7 @@ To run app, run the following command
   
 ## Screenshots
 
-![App Screenshot](https://github.com/saikumar28102000/CAPSTONE-PROJECT/blob/main/Images/screenshot.png)
+![App Screenshot](https://github.com/saikumar28102000/HEART-FAILURE-PREDICTION/blob/main/Screenshot%20heart.png?raw=true)
 
   
 ## Deployment
