@@ -5,7 +5,7 @@ This repository consists of files required to deploy a Machine Learning Web App 
 
 #### If you want to view the deployed model, click on the following link:
 
-• https://capstoneteam9.herokuapp.com/
+• https://slytherins.herokuapp.com/
 
 
 ## Dataset
