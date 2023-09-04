@@ -1,4 +1,4 @@
-# Heart Disease Prediction Project ❤
+# Heart Disease Prediction Project 
 This repository consists of files required to deploy a Machine Learning Web App created with Flask and deployed using Heroku platform.
 
 <img src="https://healthblog.uofmhealth.org/sites/consumer/files/2020-01/heart_beating_0.gif">
